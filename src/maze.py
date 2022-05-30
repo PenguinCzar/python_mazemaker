@@ -6,7 +6,7 @@ class Maze(object):
 
     def generate_maze(self):
         #TODO: maze generation
-        print("Not Implemented")
+        print("Working On It")
         pass
 
 if __name__ == "__main__":
